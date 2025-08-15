@@ -23,7 +23,7 @@ Here are some of the projects I've worked on:
 ## How to Reach Me
 Feel free to connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/albert-kiama-728859246/)
-- [Twitter]([your-twitter-url](https://x.com/Albert_K254)
+- ([Albert_K254](https://x.com/Albert_K254))
 - [Personal Website](https://github.com/AlbertKiama/Portfolio.github.io)
 
 ## Contributions
