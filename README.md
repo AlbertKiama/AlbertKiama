@@ -14,26 +14,16 @@ Here are some of the projects I've worked on:
 
 ### Kewi-Learn-Hurb, Not yet published
 - **Description:** A centralized learning management system for learning resources, tracking and certification
-- **Technologies Used:**
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **Technologies Used:** Vite, TypeScript, React, shadcn-ui, Tailwind CSS
 
 ### Docu-Bill
 - **Description:** This is an invoice generating system, tracking payments and creating reminders
-- **Technologies Used:**
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **Technologies Used:** Vite, TypeScript, React, shadcn-ui, Tailwind CSS
 
 ## How to Reach Me
 Feel free to connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/albert-kiama-728859246/)
-- [Twitter]([your-twitter-url](https://x.com/Albert_K254))
+- [Twitter]([your-twitter-url](https://x.com/Albert_K254)
 - [Personal Website](https://github.com/AlbertKiama/Portfolio.github.io)
 
 ## Contributions
