@@ -7,7 +7,7 @@ Hello! I'm Albert Kiama, a Full-Stack Engineer based in Nairobi, Kenya. I have a
 - **Programming Languages:** HTML & CSS, Javascript, Typescript, SQL, JQuery.
 - **Frameworks:** Tailwind, React JS
 - **Tools & Technologies:** Git, Github, Docker, Discord.
-- **Other Skills:** Herp player, Piano player.
+- **Other Skills:** Harp player, Piano player.
 
 ## Projects
 Here are some of the projects I've worked on:
@@ -16,14 +16,22 @@ Here are some of the projects I've worked on:
 - **Description:** A centralized learning management system for learning resources, tracking and certification
 - **Technologies Used:** Vite, TypeScript, React, shadcn-ui, Tailwind CSS
 
-### Docu-Bill
+### Docu-Bill, Not published yet
 - **Description:** This is an invoice generating system, tracking payments and creating reminders
+- **Technologies Used:** Vite, TypeScript, React, shadcn-ui, Tailwind CSS
+
+### CRM, Not yet published
+- **Description:** Customer Relation management which is customizable
+- **Technologies Used:** Vite, TypeScript, React, shadcn-ui, Tailwind CSS
+
+### Wifi billing system, not published
+- **Description:** A wifi billing system for both large scale and small scale. Can be customized to users specification
 - **Technologies Used:** Vite, TypeScript, React, shadcn-ui, Tailwind CSS
 
 ## How to Reach Me
 Feel free to connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/albert-kiama-728859246/)
-- [X.com](https://x.com/Albert_K254)
+- [X.com, Formerly Twitter](https://x.com/Albert_K254)
 - [Personal Website](https://github.com/AlbertKiama/Portfolio.github.io)
 
 ## Contributions
