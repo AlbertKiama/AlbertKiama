@@ -15,12 +15,12 @@ Here are some of the projects I've worked on:
 ### Derraw Solutions Ltd site, published
 - **Description:** An automation company website for marketing and reaching clients globally.
 - **Technologies Used:** Vite, TypeScript, React, shadcn-ui, Tailwind CSS, SEO, Python
-- **Link:**https://www.derrawsolutions.co.ke/
+- **Link:** https://www.derrawsolutions.co.ke/
 
 ### Diamond trail security site, published
 - **Description:** A security company website for marketing and reaching clients countrywide who require related services.
 - **Technologies Used:** Vite, TypeScript, React, shadcn-ui, Tailwind CSS, SEO, Python, Next JS
-- **Link:**https://www.diamondtrailsecurity.co.ke/
+- **Link:** https://www.diamondtrailsecurity.co.ke/
 
 ### Kewi-Learn-Hurb, Not yet published
 - **Description:** A centralized learning management system for learning resources, tracking, and certification
