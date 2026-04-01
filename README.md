@@ -4,7 +4,7 @@
 Hello! I'm Albert Kiama, a Full-Stack Engineer based in Nairobi, Kenya. I have a passion for building robust websites and developing AI agents, and I love working on projects that involve React, Vite, Tailwind, and PostgreSQL.
 
 ## Skills
-- **Programming Languages:** HTML & CSS, Javascript, Typescript, SQL, JQuery.
+- **Programming Languages:** HTML & CSS, JavaScript, Typescript, SQL, JQuery.
 - **Frameworks:** Tailwind, React JS
 - **Tools & Technologies:** Git, GitHub, Docker, Discord.
 - **Other Skills:** Harp player, Piano player.
@@ -20,7 +20,7 @@ Here are some of the projects I've worked on:
 ### Diamond trail security site, published
 - **Description:** A security company website for marketing and reaching clients countrywide who require related services.
 - **Technologies Used:** Vite, TypeScript, React, shadcn-ui, Tailwind CSS, SEO, Python, Next JS
-- **Link:** https://www.diamondtrailsecurity.co.ke/
+- **Link:** https://www.dtsp.co.ke/
 
 ### Kewi-Learn-Hurb, Not yet published
 - **Description:** A centralized learning management system for learning resources, tracking, and certification
